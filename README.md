@@ -22,6 +22,14 @@ Based up on the LiveSplit files created by [alterNERDtive](https://github.com/al
 
 ## Races
 
+### Race 2 – Ring Tossers Rally
+
+<https://forums.frontier.co.uk/threads/buckyball-racing-club-and-loose-screws-presents-ring-tossers-rally-triple-eight-championship-race-2.625638/>
+
+The AutoSplitter will start the timer once you undock from Bunch City.
+I couldn't see a way in the logs to track ring passes, so this a simple undock/redock timer.
+
+
 ### Race 1 – The Sidewinder Trophy
 
 <https://forums.frontier.co.uk/threads/the-sidewinder-trophy.624695/>
