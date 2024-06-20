@@ -22,6 +22,13 @@ Based up on the LiveSplit files created by [alterNERDtive](https://github.com/al
 
 ## Races
 
+### Race 3 – Pop Gun:Buckyball
+
+<https://forums.frontier.co.uk/threads/the-buckyball-racing-club-presents-pop-gun-buckyball-race-3-of-the-triple-8-championship.626068/>
+
+The AutoSplitter will start the timer once you undock from the Fleet Carrier "Penny Benjamin"
+Since the order in which you visit the race’s stops is up to you, the splits do not have a specific order and instead just list the nth stop.
+
 ### Race 2 – Ring Tossers Rally
 
 <https://forums.frontier.co.uk/threads/buckyball-racing-club-and-loose-screws-presents-ring-tossers-rally-triple-eight-championship-race-2.625638/>

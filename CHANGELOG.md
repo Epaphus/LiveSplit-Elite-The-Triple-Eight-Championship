@@ -1,3 +1,7 @@
+# 3.0 (2024-06-20)
+
+LiveSplit files and AutoSplitter for the “Pop Gun:Buckyball” race.
+
 # 2.0 (2024-05-24)
 
 LiveSplit files and AutoSplitter for the “Ring Tossers Rally” race.
