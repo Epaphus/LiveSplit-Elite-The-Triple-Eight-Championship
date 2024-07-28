@@ -22,26 +22,39 @@ Based up on the LiveSplit files created by [alterNERDtive](https://github.com/al
 
 ## Races
 
+### Race 4 – Questing on Qixi
+
+<https://forums.frontier.co.uk/threads/buckyball-racing-club-presents-questing-on-qixi-triple-eight-championship-race-4.626880/>
+
+The AutoSplitter will start the timer once you undock from the one of the start stations.   
+Since the order in which you visit the race’s stops is up to you, the splits do not have a specific order and instead just list the nth stop.   
+
+There are 4 split and auto splitter files depending on how many of the Seven Sisters systems you are stopping in.   
+Questing on Qixi - 4S - 4 systems - Minimum number required   
+Questing on Qixi - 5S - 5 systems - 1 bonus system   
+Questing on Qixi - 6S - 6 systems - 2 bonus system   
+Questing on Qixi - 7S - 7 systems - 3 bonus system   
+
 ### Race 3 – Pop Gun:Buckyball
 
 <https://forums.frontier.co.uk/threads/the-buckyball-racing-club-presents-pop-gun-buckyball-race-3-of-the-triple-8-championship.626068/>
 
-The AutoSplitter will start the timer once you undock from the Fleet Carrier "Penny Benjamin"
-Since the order in which you visit the race’s stops is up to you, the splits do not have a specific order and instead just list the nth stop.
+The AutoSplitter will start the timer once you undock from the Fleet Carrier "Penny Benjamin"   
+Since the order in which you visit the race’s stops is up to you, the splits do not have a specific order and instead just list the nth stop.   
 
 ### Race 2 – Ring Tossers Rally
 
 <https://forums.frontier.co.uk/threads/buckyball-racing-club-and-loose-screws-presents-ring-tossers-rally-triple-eight-championship-race-2.625638/>
 
-The AutoSplitter will start the timer once you undock from Bunch City.
-I couldn't see a way in the logs to track ring passes, so this a simple undock/redock timer.
+The AutoSplitter will start the timer once you undock from Bunch City.   
+I couldn't see a way in the logs to track ring passes, so this a simple undock/redock timer.   
 
 
 ### Race 1 – The Sidewinder Trophy
 
 <https://forums.frontier.co.uk/threads/the-sidewinder-trophy.624695/>
 
-The AutoSplitter will start the timer once you undock from Wright Station.
+The AutoSplitter will start the timer once you undock from Wright Station.   
 
 
 
