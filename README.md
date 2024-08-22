@@ -22,6 +22,18 @@ Based up on the LiveSplit files created by [alterNERDtive](https://github.com/al
 
 ## Races
 
+### Race 5 – Zombaland
+
+<https://forums.frontier.co.uk/threads/the-buckyball-racing-club-presents-zombaland-triple-eight-championship-race-5.627461/>
+
+The AutoSplitter will start the timer once you undock from Culpeper Gateway.   
+Since the order in which you visit the race’s stops is up to you, the splits do not have a specific order and instead just list the nth stop.   
+
+Due to the differing number of stops there are 2 split and auto splitter files, one for regulation and one for unlimted.   
+Zombaland - Regulation   
+Zombaland - Unlimited   
+
+
 ### Race 4 – Questing on Qixi
 
 <https://forums.frontier.co.uk/threads/buckyball-racing-club-presents-questing-on-qixi-triple-eight-championship-race-4.626880/>

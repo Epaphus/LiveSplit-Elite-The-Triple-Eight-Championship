@@ -1,3 +1,8 @@
+# 5.0 (2024-08-22)
+
+LiveSplit files and AutoSplitter for the “Zombaland” race.   
+Tided up races into their own folders.
+
 # 4.0 (2024-07-28)
 
 LiveSplit files and AutoSplitter for the “Questing on Qixi” race.
