@@ -1,3 +1,7 @@
+# 6.0 (2024-09-19)
+
+LiveSplit files and AutoSplitter for the "Ruby's Road" race.   
+
 # 5.0 (2024-08-22)
 
 LiveSplit files and AutoSplitter for the “Zombaland” race.   

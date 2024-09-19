@@ -22,6 +22,18 @@ Based up on the LiveSplit files created by [alterNERDtive](https://github.com/al
 
 ## Races
 
+### Race 6 – Ruby's Road
+
+<https://forums.frontier.co.uk/threads/the-buckyball-racing-club-presents-rubys-road-triple-eight-championship-race-6.627944/>
+
+The AutoSplitter will start the timer once you undock from Goeshek Horizons.   
+
+The Secure Your Invite stage can either be done at the start or at end of the run so I have done 2 split files.   
+
+The "Ruby's Road" files are for the order listed on the forum, with Hidden Field Hacienda being the first stop.   
+If you will be doing Hidden Field Hacienda after naming ceremony then use the "Ruby's Road - Hidden Field Last" files.   
+
+
 ### Race 5 – Zombaland
 
 <https://forums.frontier.co.uk/threads/the-buckyball-racing-club-presents-zombaland-triple-eight-championship-race-5.627461/>
