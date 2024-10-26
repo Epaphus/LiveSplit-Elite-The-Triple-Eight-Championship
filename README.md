@@ -44,7 +44,7 @@ The AutoSplitter will start the timer once you undock from Goeshek Horizons.
 The Secure Your Invite stage can either be done at the start or at end of the run so I have done 2 split files.   
 
 The "Ruby's Road" files are for the order listed on the forum, with Hidden Field Hacienda being the first stop.   
-If you will be doing Hidden Field Hacienda after naming ceremony then use the "Ruby's Road - Hidden Field Last" files.   
+If you will be doing Hidden Field Hacienda after the naming ceremony then use the "Ruby's Road - Hidden Field Last" files.   
 
 
 ### Race 5 – Zombaland
