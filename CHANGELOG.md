@@ -1,3 +1,7 @@
+# 7.0 (2024-10-26)
+
+LiveSplit files and AutoSplitter for the "Once Upon a Time in Leesti" race.   
+
 # 6.0 (2024-09-19)
 
 LiveSplit files and AutoSplitter for the "Ruby's Road" race.   

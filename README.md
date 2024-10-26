@@ -22,6 +22,19 @@ Based up on the LiveSplit files created by [alterNERDtive](https://github.com/al
 
 ## Races
 
+### Race 7 – Once Upon a Time in Leesti
+
+<https://forums.frontier.co.uk/threads/the-buckyball-racing-club-presents-once-upon-a-time-in-leesti-triple-eight-championship-race-7.628808//>
+
+The AutoSplitter will start the timer once you undock from George Lucas station.   
+
+Since the order in which you visit the race’s stops is up to you, the splits do not have a specific order and instead just list the nth stop.   
+
+I haven't had time to look at over the Shenanigan Class stops in detail yet, I'm not sure how best to add in shenanigan stops in at the moment.   
+However, this will still work for Shenanigan Class runs.   
+
+
+
 ### Race 6 – Ruby's Road
 
 <https://forums.frontier.co.uk/threads/the-buckyball-racing-club-presents-rubys-road-triple-eight-championship-race-6.627944/>
