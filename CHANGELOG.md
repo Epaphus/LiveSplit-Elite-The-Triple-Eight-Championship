@@ -1,3 +1,7 @@
+# 8.0 (2024-12-10)
+
+LiveSplit files and AutoSplitter for the "X^2 Marks the Dash" race.   
+
 # 7.0 (2024-10-26)
 
 LiveSplit files and AutoSplitter for the "Once Upon a Time in Leesti" race.   

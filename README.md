@@ -22,9 +22,45 @@ Based up on the LiveSplit files created by [alterNERDtive](https://github.com/al
 
 ## Races
 
+### Race 8 – X^2 Marks the Dash
+
+<https://forums.frontier.co.uk/threads/buckyball-racing-club-presents-x-2-marks-the-dash-triple-eight-championship-race-8.631210/>
+
+The AutoSplitter will start the timer once you undock from Ashton Gateway station.   
+   
+The files will need an edit to move the location of the stop "BD-17 3725", This is due to the stop being a "stop and go" with no station to land at so it's missing the drop and dock segments.   
+If it's your last stop then you won't need to make any changes.   
+
+To move the stop, open up the file `X2 Marks The Dash.asl` in a text editor, then scroll down until you reach the following.   
+
+```
+// --------------------
+// Move this section to location of your BD-17 3725 stop
+```
+
+Highlight from above section down to   
+
+```
+//
+// --------------------
+```
+
+and cut, then find the stop you want to put it before and paste above the line `// Stop N` line and save the file   
+
+Then open the `X2 Marks The Dash.lss` in a text editor and scroll down to line   
+`<!-- Move this Segment to where you want the BD-17 3725 system to be -->`   
+Highlight from the line above down to    
+`<!-- End of BD-17 3725 Segment -->`   
+Then cut the section and locate the stop you want to put it before and paste above the `<!-- End <system number> system Segment -->` line.   
+
+Once both are edited and saved you can open them in Livesplit.   
+
+If there are any issues with moving the split location for the BD-17 3725 stop, let me know which stop number you would like to be and I can send over updated files.   
+
+
 ### Race 7 – Once Upon a Time in Leesti
 
-<https://forums.frontier.co.uk/threads/the-buckyball-racing-club-presents-once-upon-a-time-in-leesti-triple-eight-championship-race-7.628808//>
+<https://forums.frontier.co.uk/threads/the-buckyball-racing-club-presents-once-upon-a-time-in-leesti-triple-eight-championship-race-7.628808/>
 
 The AutoSplitter will start the timer once you undock from George Lucas station.   
 
