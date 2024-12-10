@@ -48,9 +48,15 @@ Highlight from above section down to
 and cut, then find the stop you want to put it before and paste above the line `// Stop N` line and save the file   
 
 Then open the `X2 Marks The Dash.lss` in a text editor and scroll down to line   
-`<!-- Move this Segment to where you want the BD-17 3725 system to be -->`   
+```
+<!-- Move this Segment to where you want the BD-17 3725 system to be -->
+```
+
 Highlight from the line above down to    
-`<!-- End of BD-17 3725 Segment -->`   
+```
+<!-- End of BD-17 3725 Segment -->
+```
+
 Then cut the section and locate the stop you want to put it before and paste above the `<!-- End <system number> system Segment -->` line.   
 
 Once both are edited and saved you can open them in Livesplit.   
